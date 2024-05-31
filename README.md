@@ -7,4 +7,4 @@
 - Me gustan las matemáticas.
 - Conozco elementos esenciales de c++, php, mysql, css, html y próximamente python, java y javascript.
 - Siempre me encuentro haciendo algo, pero siempre puedes contactarme a través de mi correo personal:
-* christopherleny@gmail.com *
+*christopherleny@gmail.com*
